@@ -1,4 +1,4 @@
-require_relative 'spec_helper.rb'
+derequire_relative 'spec_helper.rb'
 
 describe Dog do
 
